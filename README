@@ -1,4 +1,4 @@
 testing git
 git add .
-git commit -m"messge"
+git commit -m"message"
 git log
