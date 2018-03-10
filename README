@@ -1,1 +1,4 @@
 testing git
+git add .
+git commit -m"messge"
+git log
